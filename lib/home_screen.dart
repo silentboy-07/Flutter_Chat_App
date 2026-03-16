@@ -36,7 +36,7 @@ class _HomeScreenState extends State<HomeScreen> with TickerProviderStateMixin {
   late AnimationController _typingController;
 
   static const _apiKey =
-      "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";
+      "YOUR_API_KEY";
   static const _apiUrl = "https://openrouter.ai/api/v1/chat/completions";
 
   @override
