@@ -31,12 +31,12 @@ A modern **AI-powered chat application built with Flutter** that allows users to
 
 <table>
 <tr>
-<td><img src="screenshots/screen1.png" width="250"/></td>
-<td><img src="screenshots/screen2.png" width="250"/></td>
+<td><img src="Screenshots/Screenshot_1.png" width="200"/></td>
+<td><img src="Screenshots/Screenshot_2.png" width="200"/></td>
 </tr>
 <tr>
-<td><img src="screenshots/screen3.png" width="250"/></td>
-<td><img src="screenshots/screen4.png" width="250"/></td>
+<td><img src="Screenshots/Screenshot_3.png" width="200"/></td>
+<td><img src="Screenshots/Screenshot_4.png" width="200"/></td>
 </tr>
 </table>
 
