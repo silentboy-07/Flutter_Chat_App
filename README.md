@@ -29,16 +29,17 @@ A modern **AI-powered chat application built with Flutter** that allows users to
 
 ## 📱 App Screenshots
 
-<table>
-<tr>
-<td><img src="Screenshots/Screenshot_1.png" width="200"/></td>
-<td><img src="Screenshots/Screenshot_2.png" width="200"/></td>
-</tr>
-<tr>
-<td><img src="Screenshots/Screenshot_3.png" width="200"/></td>
-<td><img src="Screenshots/Screenshot_4.png" width="200"/></td>
-</tr>
-</table>
+<p align="center">
+  <img src="Screenshots/Screenshot_1.png" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Screenshots/Screenshot_2.png" width="220"/>
+</p>
+
+<p align="center">
+  <img src="Screenshots/Screenshot_3.png" width="220"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="Screenshots/Screenshot_4.png" width="220"/>
+</p>
 
 ---
 
